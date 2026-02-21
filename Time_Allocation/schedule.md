@@ -7,6 +7,7 @@
         - Eyes ->10mins
         - Posture(30mins)
             -Neck->10 mins
+            -Shoulder
             -Back ->10mins
             -Belt ->10 mins
         -Stomach->10 mins
