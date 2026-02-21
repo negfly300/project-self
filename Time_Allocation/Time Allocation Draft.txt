@@ -6,6 +6,7 @@ Time Allocation Draft(for daily schedule)
 		-Eyes
 		-Posture(strenght +flexibility)
 			-neck
+			-shoulder
 			-back(spinal cord)
 			-Belt
 		-Stomach(ad
