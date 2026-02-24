@@ -29,8 +29,8 @@
 # Transferable skills
 - Communication
 - Adaptability
-- Leadership and Team work
-- Collabration
+- Leadership 
+- Team work and Collabration 
 - Problem-solving
 
 # Sub Domain Skills
