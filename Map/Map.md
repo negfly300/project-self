@@ -25,6 +25,7 @@
 - General Intelligence
 	- Road_map
 	-scope:almost all things
+- Investements
 	
 # Transferable skills
 - Communication
@@ -35,5 +36,10 @@
 
 # Sub Domain Skills
 -//Yet to write
+
+# Books TO Read 
+- Visual Intelligence: Sharpen Your Perception, Change Your Life
+- Phychology of Money
+- Reinvent Yourself
 
 
