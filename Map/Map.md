@@ -6,7 +6,6 @@
 		-Physical
 			-Strength,Flexibility
 		-Mental
-			-Strength,Flexibility
 	- Domain Skills
 	- Transferable Skills
 	- Universal responsibility 
