@@ -1,6 +1,6 @@
 # clarity
 # core_strategies
-# self-details
+# self-details and MINDSET
 # schedule(Time allocation)
 	- Health
 		-Physical
@@ -11,6 +11,7 @@
 	- Universal responsibility 
 # problem_solution
 # concepts(definitions)
+
 
 
 
