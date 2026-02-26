@@ -38,6 +38,22 @@
      - Eating ->10 mins
      - Excercise -> 1 hour 20 mins
      - Reading ->30 mins(10:00 PM - 10:30PM)
+# After noon (7:30 AM - 7:30 PM)
+schedule
+- Traveling
+    - 1 hr
+- cycling
+    - 4 hrs
+- Exercise
+    - 3hrs
+- Skills
+    - 1hr
+    - 2hr
+    - 3hr
+- Break
+    -depends on learning
+- error(%)
+
 
 
     
