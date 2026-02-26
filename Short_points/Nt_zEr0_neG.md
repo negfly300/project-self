@@ -18,6 +18,7 @@
 - Nature is the greatest source of Ideas
 - Our expectations and belief influences what we find in this world
 - CACR-D mindset
+- putting > taking,finding>restraining --->mindset
 
             
 # BROAD
