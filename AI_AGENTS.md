@@ -3,7 +3,7 @@
 ---
 
 # 1. What is an LLM (Large Language Model)
-
+![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2009-32-29.png)
 Definition:
 
 LLM (Large Language Model) is a neural network trained on massive amounts of text data to understand and generate human-like language.
@@ -17,6 +17,8 @@ Breakdown of the term:
 Core idea:
 
 LLM learns patterns in language.
+
+![LLM](https://github.com/negair0003/Balance0003/blob/main/Images/Screenshot%20From%202026-02-27%2009-34-55.png)
 
 Technically, it learns to predict:
 
