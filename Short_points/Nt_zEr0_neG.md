@@ -20,6 +20,7 @@
 - CACR-D mindset
 - putting > taking,finding>restraining --->mindset
 - Best to learning / Explore A is to see everything around you as A
+- Best Way to learn something is to explore and CACR-D mindset
 
             
 # BROAD
