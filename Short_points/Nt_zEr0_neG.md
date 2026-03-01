@@ -30,6 +30,9 @@
 - In life small things can cause huge changes
 - Don't rush to do anyhting ,feel and do with awareness.Something stop and ask questions like "I am going in right direction?",etc
 - Solution for laziness is empty stomach,exercise,cold shower
+- Psychology of money quotes
+  - A genius is the man who can do the average thing when everyone else around him is losing his mind
+  - The world is full of obvious things which nobody by any chance ever observes.
 
 # BROAD
 - Intution(for intution see colin channel)
