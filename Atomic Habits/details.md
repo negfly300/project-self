@@ -22,7 +22,7 @@
 
 # TALENTS
 - combining and relating things from different fields->lateral thinking
-
+- Strategic thinking
 
 
 
