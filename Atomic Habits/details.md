@@ -1,3 +1,6 @@
+
+# RULES
+
 # OBJECTS
 -VISUAL and CONCEPTS 
 	-Visual overall (containment / structural boundary)->experiment and accept it 
@@ -7,7 +10,7 @@
 	-locally complex and globally structured
 	-locally concrete and globally abstract
 
-# ACTION
+# ACTION and REWARD
 -Producing structure,seeing,experience structure > learning structure
 -Expanding complexity
 -Staying inside creation->important
