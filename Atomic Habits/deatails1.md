@@ -25,6 +25,7 @@ ACTION PREFERENCE
 • Enter flow state
 • Track visible improvement
 • Seek motivating feedback
+• challenging
 
 -------------------------------------
 TALENT
