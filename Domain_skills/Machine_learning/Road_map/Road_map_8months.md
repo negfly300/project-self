@@ -130,3 +130,9 @@ You will have:
 Focus on:
 Python → Data → ML → Projects
 
+
+
+# NOTE
+- Daily atleast 3 hours for ML
+- In months 1-2-3-4-5 u cna alos learn ML theory parallely
+
