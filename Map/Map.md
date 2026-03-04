@@ -13,6 +13,7 @@
 # concepts(definitions)
 # Short_points
 # Atomic habits
+# Learning strategies
 
 
 
@@ -26,7 +27,7 @@
 	- Road_map
 - General Intelligence
 	- Road_map
-	-scope:almost all things
+	- scope: almost all things
 - Investements
 - Visual intelligence(observation,mind-mapping,visualisation)
 - Agentic AI (Automation skills)
