@@ -9,7 +9,7 @@
 	- Domain Skills
 	- Transferable Skills
 	- Universal responsibility 
-# problem_solution
+# problem_solution->Not Done
 # Short_points
 # Atomic habits
 ---------------------------------------------------------
