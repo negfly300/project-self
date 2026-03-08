@@ -1,5 +1,5 @@
 # NEWLY LEARNT
-- Better MAP
+- Better PLAN
 - Better execution
 - ONE-goal driven
 - flow driven
