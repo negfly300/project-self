@@ -4,7 +4,7 @@
 
 
 # CRAVING(ATTRACTIVE)
-- Environment Fixes  should satify the object rules
+- Environment Fixes  should satify the object  and reward rules
 - 3 years old priniciple
 
 # ACTION STRATEGY(EASY)
