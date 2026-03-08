@@ -12,7 +12,7 @@
 - 3 years old priniciple
 
 # REWARD
-- Environment fixes should satisfy action and reward rules
+- Environment fixes should satisfy reward rules
   
 
 
