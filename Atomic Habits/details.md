@@ -11,11 +11,13 @@
 	-locally concrete and globally abstract
 
 # ACTION and REWARD
+## Primary Reward
 -Producing structure,seeing,experience structure > learning structure
 -Expanding complexity
 -Staying inside creation->important
 -Not consuming instructions(learning)
 -Basicall i like flow state(focus +effort less+creation/construction)
+## Secondary reward
 -I like motivating feedback,this gives me emotional surge to do it
 -Seeing clear improvement/changes
 -challenging above my level
