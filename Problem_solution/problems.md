@@ -6,4 +6,4 @@
 - Habitual ->see Atomic habits
 - AI usages for skill developments
 - Note taking system
-.
+
