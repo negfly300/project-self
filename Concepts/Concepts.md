@@ -143,3 +143,138 @@ Focuses on processing each individual part according to rules to produce a resul
   - Meaning: Simply join or merge things together.  
   - Analogy: You want to **make a cup of coffee**. You **combine coffee powder, sugar, milk, and water** — nothing is curated or reorganized, just mixed.  
   - Key: Joining / merging only
+
+
+
+# Practice vs Training
+## Definition
+- Practice :The repeated performance of a skill or task to improve proficiency, accuracy, or speed.
+
+Focuses on refining and reinforcing what you already know.
+- Training :The repeated performance of a skill or task to improve proficiency, accuracy, or speed.
+
+Focuses on refining and reinforcing what you already know.
+
+## Explanation
+- Training = learn / acquire skill with guidence(structured)
+
+- Practice = repeat / refine skill (repetition)
+
+## Analogy
+- Training:Like following a recipe for the first time — learning how to make coffee properly under guidance before you can practice it on your own.
+- Like following a recipe for the first time — learning how to make coffee properly under guidance before you can practice it on your own.
+
+
+# Learning vs Understanding
+## Definition
+- Learning:Acquiring knowledge, information, or skills through study, experience, or instruction.
+
+Focuses on memorization, exposure, and familiarity with a topic or skill.
+
+- Understanding:Grasping the meaning, principles, or logic behind knowledge.
+
+Focuses on deep comprehension, reasoning, and insight.
+
+## Explanation
+- Learning = knowing the “what”
+
+- Understanding = knowing the “why/how”
+
+## Learning vs Understanding (Coffee Analogy)
+
+- **Learning**  
+  - Meaning: Acquiring knowledge or skills.  
+  - Analogy: You **memorize a coffee recipe** — you know the ingredients and the steps (2 spoons sugar, 1 spoon coffee powder, 200ml milk).  
+  - Key: You **know the “what”**, but may not know why each ingredient matters.  
+
+- **Understanding**  
+  - Meaning: Grasping the meaning or principles behind knowledge.  
+  - Analogy: You **know why the recipe works** — why too much sugar makes it too sweet, why water temperature affects flavor, and how to adjust it for better taste.  
+  - Key: You **know the “why/how”** and can adapt it to new situations.  
+
+✅ Memory Tip:  
+- **Learning = memorizing the recipe**  
+- **Understanding = knowing why the recipe works and how to adjust it**
+
+# Acquire
+## Definition
+- ONE:buy or obtain (an asset or object) for oneself.
+- TWO:earn or develop (a skill, habit, or quality).
+
+
+# Inspection vs (Evaluation=assessment)
+## Definition
+- Insepection:Carefully look at or examine something to check its condition, correctness, or quality.Focus:Observation and detection.Output is  Usually identifies issues or confirms state, but doesn’t always assign a score or judgment.
+
+- Evaluation: Make a judgment about quality, value, or performance based on inspection or assessment.
+
+Focus: Assessment, scoring, or rating.
+
+Output: Often a conclusion, grade, or recommendation.
+
+## Explanation
+-Inspect = examine / check / look carefully =observation+analysis
+
+-Evaluate = inspect + make a judgment
+
+## Inspect vs Evaluate (Coffee Analogy)
+
+- **Inspect**  
+  - Meaning: Carefully check or examine something to see its condition or quality.  
+  - Analogy: You **taste a cup of coffee to see if it’s too hot, too bitter, or too sweet** — you’re just checking its quality.  
+  - Key: Observation, detection, noticing issues  
+
+- **Evaluate**  
+  - Meaning: Make a judgment or assessment about the quality, performance, or value.  
+  - Analogy: After tasting, you **decide if the coffee is perfect, needs more sugar, or should be remade** — you are assigning a judgment.  
+  - Key: Assessment, scoring, deciding what to do
+
+
+
+# Analysis
+## Definition
+-Analysis is the process of breaking something into parts to study it, understand it, or find patterns, causes, or relationships.
+
+# Audit
+## Definition
+- Inspect → Look at the thing carefully, notice details. ✅
+
+Verify → Check that it meets standards, rules, or requirements. ✅
+
+Document → Record your findings formally for accountability. ✅
+
+So an audit is not just checking (inspect), it is:
+
+Audit = Inspect + Verify + Document
+
+- Audit = Evaluation + Documentation
+
+Key Points:
+
+Evaluation = checking and judging if standards are met
+
+Documentation = creating a formal record of what you found
+
+Audit = a formal, recorded assessment of something
+
+# Verification vs Validation
+## Definition
+- Verfication:Checking whether a product, system, or component meets specified requirements or design specifications.
+
+Focus: “Are we building the thing right?” ✅
+
+Goal: Ensure that what you built matches the plan or specification.
+- Validation:Checking whether a product, system, or component fulfills its intended purpose or meets user needs.
+
+Focus: “Are we building the right thing?” ✅
+
+Goal: Ensure that the final product works for the end-user or purpose.
+
+
+# Analogy
+- Verification:You measure ingredients and check the recipe steps before brewing coffee to make sure you followed the recipe correctly.
+
+Focus is on following the instructions accurately, not taste.
+- You taste the coffee after making it to see if it actually tastes good and satisfies the drinker.
+
+Focus is on meeting the intended outcome, not just following instructions.
