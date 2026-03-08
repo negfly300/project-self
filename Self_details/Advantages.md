@@ -15,6 +15,8 @@
 - Abstraction
 - Analogous thinking and Pattern recgonition
 
+# Nature of generating solution is combining and analogy transfer and random input
+
 # see Scropion_traits
 
 
