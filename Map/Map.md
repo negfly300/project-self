@@ -24,6 +24,7 @@
 - Competative programming
 - General Intelligence
 - Visual intelligence(observation,mind-mapping,visualisation)
+- awareness
 	
 # Transferable skills
 - Communication
