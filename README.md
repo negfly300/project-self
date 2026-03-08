@@ -1,9 +1,6 @@
-# THE MAIN GOAL IS TO REINFORCE GENERAL_INTELLIGENCE
-# Here everything directly corresponds to General_intelligence
-
-
-
-# Mistake
-# Sub_domain_skills =Transferable skills
-
-
+# NEWLY LEARNT
+- Better MAP
+- Better execution
+- ONE-goal driven
+- flow driven
+- memory-bias 
