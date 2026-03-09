@@ -37,7 +37,7 @@
 
 - Learning_strategies
     - Learn things when needed
-    - Learning:Implementation(Challenging,Trying,Analysis,Correcting,repeat) ->5:95
+    - Knowing:Implementation(Challenging,Trying,Analysis,Correcting,repeat) ->5:95
     - Strategies
         - Human learning:Learning → Challenging → Trying → Analysis → Correcting → Repeat
         - Reinforcement Loop:State → Action → Reward → Update → Repeat
