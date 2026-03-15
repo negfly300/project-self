@@ -17,6 +17,8 @@ $ Newly learnt
 # Flow 
 # One-goal
 # Memory-bias
+# Env
+# Analysis_Solution
 
 ----------------------------------------------------------
 # Main Skill
