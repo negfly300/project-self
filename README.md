@@ -21,3 +21,13 @@
 # all or nothing mindeset
 # perfection mindset
 
+# TODO
+- Analysis +Solution
+- redirection techniques for energy // Important
+
+
+
+
+# Note 
+- techniques to control anger,desire ,and laughter are same
+
