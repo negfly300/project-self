@@ -5,7 +5,7 @@
   - Difficulty operating in half-measures.
 
 - **Resilience**
-  - Ability to survive emotional and life extremes.
+  - Ability to survive emotional and life extremes.(with patience and awareness)
   - Often recover stronger after hardship.
 
 - **Deep Emotions**
