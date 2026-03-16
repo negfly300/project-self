@@ -19,8 +19,7 @@ $ Newly learnt
 # Memory-bias
 # Env
 # free mind driven
-# Analysis_Solution
-
+# behaviour_map
 ----------------------------------------------------------
 # Main Skill
 - General Intelligence Theory
