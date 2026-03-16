@@ -1,6 +1,3 @@
-# clarity
-# core_strategies
-# self-details 
 # schedule(Time allocation)
 	- Health
 		-Physical
@@ -9,28 +6,17 @@
 	- Domain Skills
 	- Transferable Skills
 	- Universal responsibility 
-# problem_solution->Not Done
-# Short_points
-# Atomic habits
----------------------------------------------------------
-$ Newly learnt
-# Flow 
-# One-goal
-# Memory-bias
+# problem_solution
 # Env
-# free mind driven
-# behaviour_map
-----------------------------------------------------------
 # Main Skill
 - General Intelligence Theory
 ----------------------------------------------------------
 # Domain Skills
-- Math(Analytic number theory ,etc)
 - Art
-- Machine Learning
+- Math(Analytic number theory ,etc)
 - Competative programming
-- Visual intelligence(observation,mind-mapping,visualisation)
-- awareness
+- Machine Learning
+
 ----------------------------------------------------------
 # Transferable skills
 - Communication
