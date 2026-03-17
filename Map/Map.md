@@ -1,4 +1,5 @@
 # Atomic_system
+# short_points
 # schedule(Time allocation)
 	- Health
 		-Physical
